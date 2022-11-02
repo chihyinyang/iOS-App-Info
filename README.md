@@ -1,5 +1,5 @@
 # iOS-App-Info
-The way to get information about the App.
+The ways to get information about the App.
 
 ### 1. App Product Name
 -----------------
